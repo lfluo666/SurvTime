@@ -1,0 +1,6 @@
+useDynLib(SurvTime, .registration=TRUE)
+import(mvtnorm)
+import(splines)
+import(survival)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")

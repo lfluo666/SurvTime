@@ -1,0 +1,11 @@
+Package: SurvTime
+Type: Package
+Title: Modeling Non-proportional Hazards
+Version: 1.0
+Date: 2018-12-10
+Author: Lingfeng Luo
+Maintainer: Lingfeng Luo <lfluo@umich.edu>
+Description: Using different methods for Modeling Non-proportional Hazards with Large-scale Survival Data 
+License: What license is it under?
+Imports: Rcpp (>= 1.0.0)
+LinkingTo: Rcpp, RcppArmadillo
