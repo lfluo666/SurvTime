@@ -7,5 +7,5 @@ Author: Lingfeng Luo
 Maintainer: Lingfeng Luo <lfluo@umich.edu>
 Description: Using different methods for Modeling Non-proportional Hazards with Large-scale Survival Data 
 License: What license is it under?
-Imports: Rcpp (>= 1.0.0)
+Imports: Rcpp (>= 1.0.0),mvtnorm,splines
 LinkingTo: Rcpp, RcppArmadillo
